@@ -3,7 +3,11 @@
 
 
 
-Para este proyecto vamos a utilizar un conjunto de datos que contiene una lista completa de las canciones más famosas de 2023 enumeradas en Spotify. El conjunto de datos ofrece una gran cantidad de características más allá de las que normalmente están disponibles en conjuntos de datos similares. Proporciona información sobre los atributos, la popularidad y la presencia de cada canción en varias plataformas de música. El conjunto de datos incluye información como el nombre de la pista, el nombre del artista, la fecha de lanzamiento, las listas de reproducción y gráficos de Spotify, estadísticas de transmisión, presencia de Apple Music, presencia de Deezer, gráficos de Shazam y varias funciones de audio.
+Para este proyecto vamos a utilizar un conjunto de datos que contiene una lista completa de las canciones más famosas de 2023 enumeradas en Spotify. 
+El conjunto de datos ofrece una gran cantidad de características más allá de las que normalmente están disponibles en conjuntos de datos similares. 
+Proporciona información sobre los atributos, la popularidad y la presencia de cada canción en varias plataformas de música. 
+El conjunto de datos incluye información como el nombre de la pista, el nombre del artista, la fecha de lanzamiento, las listas de reproducción y gráficos
+de Spotify, estadísticas de transmisión, presencia de Apple Music, presencia de Deezer, gráficos de Shazam y varias funciones de audio.
 
 
 Posibles casos de estudio:
@@ -24,4 +28,5 @@ Tendencias temporales: identifique cualquier cambio en los atributos y preferenc
 Presencia multiplataforma: investigue cómo funcionan las canciones en diferentes servicios de transmisión.
 
 
-Una vez analizado el caso, se debe subir a Github el código con el que se analizaron los datos y en el readme escribir las conclusiones con las respectivas gráficas que verifican tu análisis.
+Una vez analizado el caso, se debe subir a Github el código con el que se analizaron los datos y en el readme escribir las conclusiones
+con las respectivas gráficas que verifican tu análisis.
