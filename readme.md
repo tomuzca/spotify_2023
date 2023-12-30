@@ -27,9 +27,9 @@ Acá podemos ver que a pesar de no tener un buén indicador de correlación la e
 
 Primero como es su comportamiento en el tiempo.
 
-![](danceability_%_vs_released_year.png)
-![](energy_%_vs_released_year.png)
-![](valence_%_vs_released_year.png)
+![](danceability_vs_released_year.png)
+![](energy_vs_released_year.png)
+![](valence_vs_released_year.png)
 
 Con estas podemos ver que la tendencia hacia la decada 2020 la grán mayoria de estos valores están por encima de los 60%.
 
